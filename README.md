@@ -1,1 +1,1 @@
-# ITAI_ML_FirstRepo_Oman
+This is my first GitHub file for the Classic Machine Learning course.
